@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://santiagogoncalvez.web.app">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/santiagogoncalvez">💼 LinkedIn</a> •
+  <a href="https://santiagogoncalvez.web.app">🌐 Portfolio</a> &nbsp; &nbsp; 
+  <a href="https://linkedin.com/in/santiagogoncalvez">💼 LinkedIn</a> &nbsp; &nbsp; 
   <a href="mailto:santiago.goncalvez.dev@gmail.com">📧 Email</a>
 </p>
 
@@ -46,19 +46,19 @@ Actualmente busco mi **primera oportunidad profesional** en equipos que valoren 
 Dashboard profesional orientado a la gestión eficiente de datos.
 - **Logro:** Implementación de filtrado avanzado y ordenación multicapa con manejo de estado asíncrono optimizado.
 - **Tech:** React, TypeScript, Redux Toolkit, Tremor.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/midudevs-react-course/tree/main/projects/11b-typescript-prueba-tecnica-with-reacty-query)  [🔗 Demo en vivo](https://userops-dashboard.web.app/)
+- [📂 Repositorio](https://github.com/santiagogoncalvez/midudevs-react-course/tree/main/projects/11b-typescript-prueba-tecnica-with-reacty-query) &nbsp;  [🔗 Demo en vivo](https://userops-dashboard.web.app/)
 
 ### 📰 Hacker Stories (Hacker News Client)
 Cliente de noticias de alto rendimiento con foco en UX.
 - **Logro:** Implementación de **scroll infinito**, persistencia de datos y una robusta suite de **tests con Vitest**.
 - **Tech:** React, TypeScript, React Router, TanStack Query.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories)  [🔗 Demo en vivo](https://hackerstories-dev.web.app/)
+- [📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories) &nbsp;  [🔗 Demo en vivo](https://hackerstories-dev.web.app/)
 
 ### 🗺️ Tu País
 Juego interactivo de agilidad visual y conocimientos.
 - **Logro:** Arquitectura inspirada en el patrón **Flux** utilizando Vanilla JavaScript para maximizar el rendimiento.
 - **Tech:** HTML, CSS, JavaScript (ES6), Vite.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/tupais)  [🔗 Demo en vivo](https://santiagogoncalvez.github.io/tupais/)
+- [📂 Repositorio](https://github.com/santiagogoncalvez/tupais) &nbsp; [🔗 Demo en vivo](https://santiagogoncalvez.github.io/tupais/)
 
 <br>
 
@@ -70,13 +70,15 @@ Juego interactivo de agilidad visual y conocimientos.
 ## 🎯 Objetivo
 Seguir evolucionando como desarrollador frontend, aportando soluciones escalables y formando parte de productos digitales que impacten positivamente en el usuario final.
 
+<br />
+
 <p align="center">
-  <br />
   <b>¿Tienes una oportunidad para mí? ¡Hablemos!</b><br />
   <br>
   <a href="https://linkedin.com/in/santiagogoncalvez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:santiago.goncalvez.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
