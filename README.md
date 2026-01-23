@@ -44,9 +44,10 @@ Actualmente busco mi **primera oportunidad profesional como desarrollador Fronte
 ### 📊 Tech Test · Data Management Dashboard
 Dashboard de usuarios con filtrado avanzado, ordenación multicapa y manejo eficiente de estado asíncrono.
 
-**Tech:** React · TypeScript · Redux Toolkit · Tremor · Vite  
-🔗 [Demo en vivo](https://userops-dashboard.web.app/) 
+**Tech:** React · TypeScript · Redux Toolkit · Tremor · Vite 
 📂 [Repositorio](https://github.com/santiagogoncalvez/midudevs-react-course/tree/main/projects/11b-typescript-prueba-tecnica-with-reacty-query)
+🔗 [Demo en vivo](https://userops-dashboard.web.app/) 
+
 
 <br>
 
@@ -54,17 +55,19 @@ Dashboard de usuarios con filtrado avanzado, ordenación multicapa y manejo efic
 Cliente avanzado de noticias con **scroll infinito**, **persistencia de favoritos**, **historial de búsqueda**, vistas en tabla y cards, y navegación optimizada. Incluye **tests unitarios e integrales con Vitest**.
 
 **Tech:** React · TypeScript · React Router · TanStack Query · Vite  
-🔗 [Demo en vivo](https://hackerstories-dev.web.app/) 
 📂 [Repositorio](https://github.com/santiagogoncalvez/hacker-stories)
+🔗 [Demo en vivo](https://hackerstories-dev.web.app/) 
+
 
 <br>
 
 ### 🗺️ Tu País
 Juego web de adivinanzas de banderas con arquitectura inspirada en **Flux**, routing por hash y foco en rendimiento y fluidez visual.
 
-**Tech:** HTML · CSS · Vanilla JavaScript · Vite  
-🔗 [Demo en vivo](https://santiagogoncalvez.github.io/tupais/)  
+**Tech:** HTML · CSS · Vanilla JavaScript · Vite 
 📂 [Repositorio](https://github.com/santiagogoncalvez/tupais)
+🔗 [Demo en vivo](https://santiagogoncalvez.github.io/tupais/)  
+
 
 <br>
 
@@ -80,7 +83,7 @@ Seguir creciendo como **Desarrollador Frontend**, aportar valor real en producto
 <br>
 <br>
 <br>
-
+<br>
 ---
  <p align="center">Disponible para trabajar · Frontend Junior</p>
 </p>
