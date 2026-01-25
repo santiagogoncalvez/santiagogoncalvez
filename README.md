@@ -1,10 +1,6 @@
 <h1 align="center">Hola, soy <a href="https://santiagogoncalvez.web.app/" target="blank">Santiago Goncalvez</a></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Open%20To%20Work-green?style=for-the-badge&logo=github&logoColor=white" alt="Open To Work">
-</p>
-
-<p align="center">
   <strong>Desarrollador Frontend <p align="center">React · TypeScript · Performance · UX</p></strong>
 </p>
 
