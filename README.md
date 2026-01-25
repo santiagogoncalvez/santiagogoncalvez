@@ -29,7 +29,7 @@ Actualmente busco mi **primera oportunidad profesional** en equipos que valoren 
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vitest,tailwind,git,vite,redux" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vitest,tailwind,git,redux,astro" alt="My Skills" />
 </p>
 
 **Stack Principal:**
@@ -75,11 +75,5 @@ Seguir evolucionando como desarrollador frontend, aportando soluciones escalable
 <p align="center">
   <b>¿Tienes una oportunidad para mí? ¡Hablemos!</b><br />
   <br>
-  <a href="https://linkedin.com/in/santiagogoncalvez">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:santiago.goncalvez.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/santiagogoncalvez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:santiago.goncalvez.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
