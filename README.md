@@ -25,7 +25,7 @@ Actualmente busco mi **primera oportunidad profesional** en equipos que valoren 
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vitest,tailwind,git,redux,astro" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,astro,tailwind,vitest,redux,html,css,git" alt="My Skills" />
 </p>
 
 **Stack Principal:**
