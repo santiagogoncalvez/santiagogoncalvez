@@ -1,11 +1,11 @@
-<h1 align="center">Hola, soy <a href="https://santiagogoncalvez.web.app/" target="blank">Santiago Goncalvez</a></h1>
+<h1 align="center">Hola, soy <a href="https://santiagogoncalvez.com/" target="blank">Santiago Goncalvez</a></h1>
 
 <p align="center">
   <strong>Desarrollador Frontend <p align="center">React · TypeScript · Performance · UX</p></strong>
 </p>
 
 <p align="center">
-  <a href="https://santiagogoncalvez.web.app">🌐 Portfolio</a> &nbsp; &nbsp; 
+  <a href="https://santiagogoncalvez.com">🌐 Portfolio</a> &nbsp; &nbsp; 
   <a href="https://linkedin.com/in/santiagogoncalvez">💼 LinkedIn</a> &nbsp; &nbsp; 
   <a href="mailto:santiago.goncalvez.dev@gmail.com">📧 Email</a>
 </p>
