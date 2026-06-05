@@ -47,8 +47,7 @@ Actualmente busco mi **primera oportunidad profesional** o roles freelance donde
 E-commerce autogestionable desarrollado para marca textil artesanal.
 - **Logro:** Implementación de catálogo dinámico con CMS y enfoque en conversión y experiencia de compra.
 - **Tecnologías:** Astro, React, TypeScript, Sanity CMS, Tailwind CSS.<br>
-[📂 Repositorio](https://github.com/santiagogoncalvez/nidotrama)<br>
-[🔗 Web en vivo](https://nidotrama.com)
+[🔗 Demo en vivo](https://nidotrama.com)
 
 ### 📊 Next.js Fullstack Dashboard
 Dashboard fullstack de administración basado en Next.js App Router.
