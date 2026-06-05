@@ -46,28 +46,28 @@ Actualmente busco mi **primera oportunidad profesional** o roles freelance donde
 ### 🛒 Nidotrama
 E-commerce autogestionable desarrollado para marca textil artesanal.
 - **Logro:** Implementación de catálogo dinámico con CMS y enfoque en conversión y experiencia de compra.
-- **Tecnologías:** Astro, React, TypeScript, Sanity CMS, Tailwind CSS.
-[📂 Repositorio](https://github.com/santiagogoncalvez/nidotrama)
+- **Tecnologías:** Astro, React, TypeScript, Sanity CMS, Tailwind CSS.<br>
+[📂 Repositorio](https://github.com/santiagogoncalvez/nidotrama)<br>
 [🔗 Web en vivo](https://nidotrama.com)
 
 ### 📊 Next.js Fullstack Dashboard
 Dashboard fullstack de administración basado en Next.js App Router.
 - **Logro:** Implementación de Server Actions, autenticación con NextAuth, validación con Zod y arquitectura basada en Server Components.
-- **Tecnologías:** Next.js, TypeScript, PostgreSQL, NextAuth, Tailwind CSS.
+- **Tecnologías:** Next.js, TypeScript, PostgreSQL, NextAuth, Tailwind CSS.<br>
 [📂 Repositorio](https://github.com/santiagogoncalvez/nextjs-fullstack-dashboard)
 
 ### 📰 Hacker Stories (Hacker News Client)
 Cliente de noticias de alto rendimiento con foco en UX.
 - **Logro:** Implementación de **scroll infinito**, persistencia de datos y una robusta suite de **tests con Vitest**.
-- **Tecnologías:** React, TypeScript, React Router, TanStack Query.
-[📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories)
+- **Tecnologías:** React, TypeScript, React Router, TanStack Query.<br>
+[📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories)<br>
 [🔗 Demo en vivo](https://hackerstories-dev.web.app/)
 
 ### 🗺️ Tu País
 Juego interactivo de agilidad visual y conocimientos.
 - **Logro:** Arquitectura inspirada en el patrón **Flux** utilizando Vanilla JavaScript para maximizar el rendimiento.
-- **Tecnologías:** HTML, CSS, JavaScript (ES6), Vite.
-[📂 Repositorio](https://github.com/santiagogoncalvez/tupais)
+- **Tecnologías:** HTML, CSS, JavaScript (ES6), Vite.<br>
+[📂 Repositorio](https://github.com/santiagogoncalvez/tupais)<br>
 [🔗 Demo en vivo](https://santiagogoncalvez.github.io/tupais/)
 
 <br>
