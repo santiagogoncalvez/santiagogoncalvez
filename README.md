@@ -14,7 +14,7 @@
 
 ## 🧠 Sobre mí
 
-Soy **Desarrollador Frontend** con especial foco en el ecosistema de **React, Next.js y TypeScript**. Mi objetivo es construir interfaces rápidas, escalables y mantenibles, con buena experiencia de usuario y foco en rendimiento.
+Soy **Desarrollador Frontend** especializado en el ecosistema de **React, Next.js y TypeScript**. Mi objetivo es construir interfaces rápidas, escalables y mantenibles, con buena experiencia de usuario y foco en rendimiento.
 
 Me enfoco en resolver problemas del frontend moderno: arquitectura de componentes, gestión de estado, optimización de renderizado, consumo de APIs y construcción de aplicaciones fullstack con Next.js.
 
