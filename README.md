@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy <a href="https://santiagogoncalvez.com/" target="blank">Santiago Goncalvez</a></h1>
 
 <p align="center">
-  <strong>Desarrollador Frontend <p align="center">React · TypeScript · Performance · UX</p></strong>
+  <strong>Desarrollador Frontend <p align="center">React · TypeScript · Rendimiento · UX</p></strong>
 </p>
 
 <p align="center">
@@ -14,47 +14,61 @@
 
 ## 🧠 Sobre mí
 
-Soy **Desarrollador Frontend** con especial foco en el ecosistema de **React y TypeScript**. Mi objetivo es construir interfaces que no solo se vean bien, sino que sean **rápidas, mantenibles y accesibles**.
+Soy **Desarrollador Frontend** con especial foco en el ecosistema de **React, Next.js y TypeScript**. Mi objetivo es construir interfaces rápidas, escalables y mantenibles, con buena experiencia de usuario y foco en rendimiento.
 
-Me apasiona resolver problemas técnicos complejos, desde la gestión de estados globales hasta la optimización del renderizado y el rendimiento web. Tengo experiencia implementando arquitecturas limpias, **tests unitarios e integrales** y flujos de trabajo modernos.
+Me enfoco en resolver problemas del frontend moderno: arquitectura de componentes, gestión de estado, optimización de renderizado, consumo de APIs y construcción de aplicaciones fullstack con Next.js.
 
-Actualmente busco mi **primera oportunidad profesional** en equipos que valoren la calidad del código, el criterio técnico y la mejora continua.
+Tengo experiencia desarrollando dashboards, e-commerce y plataformas reales utilizando arquitecturas limpias, **Server Components, Server Actions, autenticación y bases de datos**. También implemento **tests unitarios e integrales** y flujos modernos de desarrollo.
+
+Actualmente busco mi **primera oportunidad profesional** o roles freelance donde pueda seguir creciendo en proyectos reales, aportando criterio técnico, buenas prácticas y foco en producto.
+
 
 <br>
 
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,astro,tailwind,vitest,redux,html,css,git" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,astro,tailwind,vitest,redux,html,css,git" alt="My Skills" />
 </p>
 
 **Stack Principal:**
-- **Core:** React, TypeScript, JavaScript (ES6+).
+- **Core:** React, Next.js, TypeScript, JavaScript (ES6+).
+- **Frontend:** HTML5, CSS3, Tailwind CSS, Astro.
 - **Data Fetching & State:** TanStack Query, Zustand, Redux Toolkit.
-- **Testing & Tooling:** Vitest (Unit & Integration), Vite, Tailwind CSS, Astro.
-- **Fundamentos:** HTML5, CSS3 (Modern layouts), Browser APIs & Git.
+- **Backend / Fullstack:** Next.js (App Router), Server Actions, NextAuth, PostgreSQL.
+- **Testing & Tooling:** Vitest (Unit & Integration), Vite, Git.
+- **Fundamentos:** Browser APIs, SEO básico, rendimiento web.
 
 <br>
 
 ## 🚀 Proyectos destacados
 
-### 📊 Tech Test · Data Management Dashboard
-Dashboard profesional orientado a la gestión eficiente de datos.
-- **Logro:** Implementación de filtrado avanzado y ordenación multicapa con manejo de estado asíncrono optimizado.
-- **Tech:** React, TypeScript, Redux Toolkit, Tremor.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/midudevs-react-course/tree/main/projects/11b-typescript-prueba-tecnica-with-reacty-query) &nbsp;  [🔗 Demo en vivo](https://userops-dashboard.web.app/)
+### 🛒 Nidotrama
+E-commerce autogestionable desarrollado para marca textil artesanal.
+- **Logro:** Implementación de catálogo dinámico con CMS y enfoque en conversión y experiencia de compra.
+- **Tecnologías:** Astro, React, TypeScript, Sanity CMS, Tailwind CSS.
+[📂 Repositorio](https://github.com/santiagogoncalvez/nidotrama)
+[🔗 Web en vivo](https://nidotrama.com)
+
+### 📊 Next.js Fullstack Dashboard
+Dashboard fullstack de administración basado en Next.js App Router.
+- **Logro:** Implementación de Server Actions, autenticación con NextAuth, validación con Zod y arquitectura basada en Server Components.
+- **Tecnologías:** Next.js, TypeScript, PostgreSQL, NextAuth, Tailwind CSS.
+[📂 Repositorio](https://github.com/santiagogoncalvez/nextjs-fullstack-dashboard)
 
 ### 📰 Hacker Stories (Hacker News Client)
 Cliente de noticias de alto rendimiento con foco en UX.
 - **Logro:** Implementación de **scroll infinito**, persistencia de datos y una robusta suite de **tests con Vitest**.
-- **Tech:** React, TypeScript, React Router, TanStack Query.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories) &nbsp;  [🔗 Demo en vivo](https://hackerstories-dev.web.app/)
+- **Tecnologías:** React, TypeScript, React Router, TanStack Query.
+[📂 Repositorio](https://github.com/santiagogoncalvez/hacker-stories)
+[🔗 Demo en vivo](https://hackerstories-dev.web.app/)
 
 ### 🗺️ Tu País
 Juego interactivo de agilidad visual y conocimientos.
 - **Logro:** Arquitectura inspirada en el patrón **Flux** utilizando Vanilla JavaScript para maximizar el rendimiento.
-- **Tech:** HTML, CSS, JavaScript (ES6), Vite.
-- [📂 Repositorio](https://github.com/santiagogoncalvez/tupais) &nbsp; [🔗 Demo en vivo](https://santiagogoncalvez.github.io/tupais/)
+- **Tecnologías:** HTML, CSS, JavaScript (ES6), Vite.
+[📂 Repositorio](https://github.com/santiagogoncalvez/tupais)
+[🔗 Demo en vivo](https://santiagogoncalvez.github.io/tupais/)
 
 <br>
 
